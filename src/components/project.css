@@ -1,0 +1,24 @@
+.project {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.project-content-div {
+    overflow: hidden;
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+  width: 613px;
+  height: 472px;
+   }
+
+ .project-heading{
+    font-size: 60px;
+ }  
+
+
+.project-img {
+    height: 350px;
+}
+.project-content-div:hover , .project-content-div:active {font-size: 105%;}

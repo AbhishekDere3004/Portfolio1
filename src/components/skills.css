@@ -1,0 +1,23 @@
+.skills{
+ 
+}
+.skills-heading{
+    font-size: 60px;
+   
+}
+.skills-contant{
+    display: flex;
+    justify-content: center;
+
+    
+}
+.skills-img-div{
+    
+    margin: 50px;
+}
+.skills-img{
+    height: 110px;
+    background-color: white;
+}
+.skills-img-div:hover ,
+ .skills-img-div:active {transform: scale(1.1 );}
